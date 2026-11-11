@@ -33,7 +33,7 @@ bash scripts/setup_server.sh
 
 ## 模型权重
 
-三个 Hugging Face 模型仓库分别保存 `best.pt`、`last.pt`、阶段检查点、类别映射和评估结果。链接需要对应私有仓库的访问权限。
+三个 Hugging Face 模型仓库分别保存 `best.pt`、类别映射和评估结果。链接需要对应私有仓库的访问权限。
 
 - [YOLO26s-seg](https://huggingface.co/huangzh111/yolo26s-seg-cholecinstanceseg)
 - [YOLO26m-seg](https://huggingface.co/huangzh111/yolo26m-seg-cholecinstanceseg)
