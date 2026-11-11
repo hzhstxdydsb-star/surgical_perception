@@ -1,0 +1,22 @@
+{
+  "model": "YOLO26l-seg",
+  "dataset": "CholecInstanceSeg",
+  "completed_epochs": 56,
+  "best_epoch": 26,
+  "early_stopping_patience": 30,
+  "training_hours": 4.6249722222222225,
+  "independent_test_evaluated": true,
+  "classes": {
+    "0": "grasper",
+    "1": "hook",
+    "2": "irrigator",
+    "3": "clipper",
+    "4": "bipolar",
+    "5": "scissors",
+    "6": "snare"
+  },
+  "best_checkpoint_loadable": true,
+  "resume_checkpoint": "checkpoints/epoch50.pt",
+  "resume_completed_epochs": 51,
+  "resume_optimizer_state_present": true
+}

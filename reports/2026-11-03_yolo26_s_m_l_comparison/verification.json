@@ -1,0 +1,85 @@
+{
+  "pdf_pages": 12,
+  "rendered_pages": 12,
+  "models": [
+    "YOLO26s-seg",
+    "YOLO26m-seg",
+    "YOLO26l-seg"
+  ],
+  "all_model_metrics_match_sources": true,
+  "shared_actual_config_fields": 111,
+  "different_actual_config_fields": [
+    "model",
+    "name",
+    "save_dir"
+  ],
+  "charts": 4,
+  "prediction_samples": 4,
+  "predicted_images": 12,
+  "markdown_asset_links_valid": true,
+  "image_files_decodable": true,
+  "page_checks": [
+    {
+      "page": 1,
+      "image_count": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 2,
+      "image_count": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 3,
+      "image_count": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 4,
+      "image_count": 1,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 5,
+      "image_count": 1,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 6,
+      "image_count": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 7,
+      "image_count": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 8,
+      "image_count": 1,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 9,
+      "image_count": 1,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 10,
+      "image_count": 8,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 11,
+      "image_count": 8,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 12,
+      "image_count": 0,
+      "text_and_image_bounds_valid": true
+    }
+  ],
+  "hashes_computed": false,
+  "new_training_performed": false
+}

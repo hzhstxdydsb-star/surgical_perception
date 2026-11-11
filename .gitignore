@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pt
+weights/
+checkpoints/
+pretrained/
+work/
+runs/
+datasets/
+.DS_Store

@@ -1,0 +1,74 @@
+{
+  "images": {
+    "test": 10819,
+    "train": 26830,
+    "val": 4284
+  },
+  "total_images": 41933,
+  "instances": 64755,
+  "class_instances": {
+    "test": {
+      "grasper": 8701,
+      "hook": 4848,
+      "irrigator": 1109,
+      "clipper": 326,
+      "bipolar": 526,
+      "scissors": 149,
+      "snare": 0
+    },
+    "train": {
+      "grasper": 25698,
+      "hook": 12675,
+      "irrigator": 1189,
+      "clipper": 899,
+      "bipolar": 1762,
+      "scissors": 450,
+      "snare": 43
+    },
+    "val": {
+      "grasper": 4017,
+      "hook": 1759,
+      "irrigator": 122,
+      "clipper": 99,
+      "bipolar": 270,
+      "scissors": 113,
+      "snare": 0
+    }
+  },
+  "empty_images": {
+    "test": 1830,
+    "train": 2542,
+    "val": 542
+  },
+  "iou_mean": 0.9997172778556935,
+  "iou_min": 0.8746569075937786,
+  "iou_median": 1.0,
+  "iou_area_weighted": 0.9998954548131621,
+  "instances_below_0_95": 31,
+  "no_video_split_overlap": true,
+  "official_loader": {
+    "test": {
+      "images": 10819,
+      "instances": 15659
+    },
+    "train": {
+      "images": 26830,
+      "instances": 42716
+    },
+    "val": {
+      "images": 4284,
+      "instances": 6380
+    }
+  },
+  "all_saved_labels_match_conversion_audit": true,
+  "unexplained_pixels": 0,
+  "missing_classes": {
+    "test": [
+      "snare"
+    ],
+    "train": [],
+    "val": [
+      "snare"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "frames": {
+    "test": 10819,
+    "train": 26830,
+    "val": 4284
+  },
+  "instances": 64755,
+  "unpaired_images": 0,
+  "instances_below_iou_0_95": 31,
+  "failed_conversion_checks": 0
+}

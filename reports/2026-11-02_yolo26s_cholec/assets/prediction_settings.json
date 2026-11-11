@@ -1,0 +1,10 @@
+{
+  "weights": "YOLO26s-seg best.pt，第36轮",
+  "device": "cpu",
+  "imgsz": 640,
+  "confidence_threshold": 0.25,
+  "seed": 42,
+  "images": 20,
+  "pdf_images": 8,
+  "source_split": "val"
+}

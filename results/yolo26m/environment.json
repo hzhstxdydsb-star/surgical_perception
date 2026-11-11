@@ -1,0 +1,11 @@
+{
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "system": "Linux-6.17.0-1025-oem-x86_64-with-glibc2.39",
+  "torch": "2.14.1+cu126",
+  "torchvision": "0.29.1+cu126",
+  "ultralytics": "8.4.190",
+  "cuda": "12.6",
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "vram_GiB": 23.5159912109375,
+  "cuda_forward_backward": true
+}

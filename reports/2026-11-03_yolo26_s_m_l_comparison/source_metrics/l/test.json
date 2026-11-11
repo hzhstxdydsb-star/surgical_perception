@@ -1,0 +1,100 @@
+{
+  "split": "test",
+  "overall": {
+    "metrics/precision(B)": 0.9199225755231133,
+    "metrics/recall(B)": 0.8845603122203464,
+    "metrics/mAP50(B)": 0.9286462074859663,
+    "metrics/mAP50-95(B)": 0.8370763584237921,
+    "metrics/precision(M)": 0.9291685124008483,
+    "metrics/recall(M)": 0.8709414928212009,
+    "metrics/mAP50(M)": 0.9248963886864082,
+    "metrics/mAP50-95(M)": 0.7594292220711335,
+    "fitness": 1.5965055804949255
+  },
+  "per_class": [
+    {
+      "Class": "grasper",
+      "Images": 6728,
+      "Instances": 8701,
+      "Box-P": 0.90858,
+      "Box-R": 0.9001,
+      "Box-F1": 0.90432,
+      "mAP50": 0.94238,
+      "mAP75": 0.874,
+      "mAP50-95": 0.78601,
+      "Mask-P": 0.91928,
+      "Mask-R": 0.87312,
+      "Mask-F1": 0.89561
+    },
+    {
+      "Class": "hook",
+      "Images": 4847,
+      "Instances": 4848,
+      "Box-P": 0.9868,
+      "Box-R": 0.98783,
+      "Box-F1": 0.98731,
+      "mAP50": 0.99368,
+      "mAP75": 0.97019,
+      "mAP50-95": 0.90638,
+      "Mask-P": 0.9913,
+      "Mask-R": 0.98678,
+      "Mask-F1": 0.98904
+    },
+    {
+      "Class": "irrigator",
+      "Images": 1109,
+      "Instances": 1109,
+      "Box-P": 0.94942,
+      "Box-R": 0.91402,
+      "Box-F1": 0.93138,
+      "mAP50": 0.95658,
+      "mAP75": 0.93653,
+      "mAP50-95": 0.8819,
+      "Mask-P": 0.96063,
+      "Mask-R": 0.90202,
+      "Mask-F1": 0.9304
+    },
+    {
+      "Class": "clipper",
+      "Images": 326,
+      "Instances": 326,
+      "Box-P": 0.96819,
+      "Box-R": 0.87423,
+      "Box-F1": 0.91882,
+      "mAP50": 0.96048,
+      "mAP75": 0.96048,
+      "mAP50-95": 0.9039,
+      "Mask-P": 0.97877,
+      "Mask-R": 0.8589,
+      "Mask-F1": 0.91492
+    },
+    {
+      "Class": "bipolar",
+      "Images": 526,
+      "Instances": 526,
+      "Box-P": 0.95122,
+      "Box-R": 0.92674,
+      "Box-F1": 0.93882,
+      "mAP50": 0.96247,
+      "mAP75": 0.8863,
+      "mAP50-95": 0.83159,
+      "Mask-P": 0.9501,
+      "Mask-R": 0.90684,
+      "Mask-F1": 0.92797
+    },
+    {
+      "Class": "scissors",
+      "Images": 149,
+      "Instances": 149,
+      "Box-P": 0.75533,
+      "Box-R": 0.70444,
+      "Box-F1": 0.729,
+      "mAP50": 0.75628,
+      "mAP75": 0.75628,
+      "mAP50-95": 0.71268,
+      "Mask-P": 0.77494,
+      "Mask-R": 0.69799,
+      "Mask-F1": 0.73445
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+[
+  {
+    "annotation": "cholecinstanceseg/test/VID14_t50_full/ann_dir/t50_VID14_000876.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9493267186392629
+  },
+  {
+    "annotation": "cholecinstanceseg/test/VID15_t50_full/ann_dir/t50_VID15_000295.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9288358700123406
+  },
+  {
+    "annotation": "cholecinstanceseg/test/VID15_t50_full/ann_dir/t50_VID15_001328.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9243106359032076
+  },
+  {
+    "annotation": "cholecinstanceseg/test/VID15_t50_full/ann_dir/t50_VID15_001496.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9347434743474348
+  },
+  {
+    "annotation": "cholecinstanceseg/test/VID15_t50_full/ann_dir/t50_VID15_001610.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9429115128449096
+  },
+  {
+    "annotation": "cholecinstanceseg/test/VID22_t50_full/ann_dir/t50_VID22_001272.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9472398632144602
+  },
+  {
+    "annotation": "cholecinstanceseg/test/VID53_t80_sparse/ann_dir/t80_VID53_002100.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9406430338004946
+  },
+  {
+    "annotation": "cholecinstanceseg/test/VID69_t80_sparse/ann_dir/t80_VID69_000060.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9077102803738317
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID01_seg8k/ann_dir/seg8k_video01_014947.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.935006170300288
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID103_t50_sparse/ann_dir/t50_VID103_001710.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9177153920619555
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID10_t50_sparse/ann_dir/t50_VID10_001230.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9007220216606499
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID12_t50_full/ann_dir/t50_VID12_000885.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9416498993963782
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID18_t50_full/ann_dir/t50_VID18_000856.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9354838709677419
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID18_t50_full/ann_dir/t50_VID18_000907.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9121019108280255
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID18_t50_full/ann_dir/t50_VID18_000910.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9305631492618918
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID18_t50_full/ann_dir/t50_VID18_000912.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.919496855345912
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID25_seg8k/ann_dir/seg8k_video25_000318.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9371428571428572
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID25_seg8k/ann_dir/seg8k_video25_000319.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9367816091954023
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID25_seg8k/ann_dir/seg8k_video25_000453.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9195029713668288
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID25_seg8k/ann_dir/seg8k_video25_000454.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9219745222929936
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID26_t50_full/ann_dir/t50_VID26_000621.json",
+    "class": "hook",
+    "instance_id": 1,
+    "iou": 0.9487960143924716
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID27_t50_full/ann_dir/t50_VID27_001657.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9285102739726028
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID32_t50_sparse/ann_dir/t50_VID32_000270.json",
+    "class": "irrigator",
+    "instance_id": 1,
+    "iou": 0.9087378640776699
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID42_t50_sparse/ann_dir/t50_VID42_003030.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9126617375231053
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID47_t50_sparse/ann_dir/t50_VID47_000990.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9494665918023583
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID48_t50_full/ann_dir/t50_VID48_000984.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9378509921377761
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID48_t50_full/ann_dir/t50_VID48_001591.json",
+    "class": "bipolar",
+    "instance_id": 1,
+    "iou": 0.9283103739105988
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID52_seg8k/ann_dir/seg8k_video52_002782.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.9468914646996839
+  },
+  {
+    "annotation": "cholecinstanceseg/train/VID52_t50_full/ann_dir/t50_VID52_000344.json",
+    "class": "grasper",
+    "instance_id": 1,
+    "iou": 0.8746569075937786
+  },
+  {
+    "annotation": "cholecinstanceseg/val/VID03_t80_sparse/ann_dir/t80_VID03_001050.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9418570157223376
+  },
+  {
+    "annotation": "cholecinstanceseg/val/VID37_seg8k/ann_dir/seg8k_video37_000792.json",
+    "class": "grasper",
+    "instance_id": 2,
+    "iou": 0.9498532942117898
+  }
+]

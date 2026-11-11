@@ -1,0 +1,15 @@
+{
+  "split": "val",
+  "epoch": 32,
+  "source": "results.csv最佳轮次记录",
+  "metrics": {
+    "metrics/precision(B)": 0.97058,
+    "metrics/recall(B)": 0.84221,
+    "metrics/mAP50(B)": 0.91397,
+    "metrics/mAP50-95(B)": 0.82479,
+    "metrics/precision(M)": 0.96976,
+    "metrics/recall(M)": 0.8412,
+    "metrics/mAP50(M)": 0.91084,
+    "metrics/mAP50-95(M)": 0.74391
+  }
+}

@@ -1,0 +1,16 @@
+epochs: 150
+patience: 30
+imgsz: 640
+batch: 16
+device: 0
+amp: true
+workers: 8
+freeze: 0
+optimizer: auto
+seed: 42
+deterministic: true
+cache: false
+save: true
+save_period: 10
+close_mosaic: 10
+plots: false

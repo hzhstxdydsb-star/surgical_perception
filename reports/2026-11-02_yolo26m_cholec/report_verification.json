@@ -1,0 +1,73 @@
+{
+  "pdf_pages": 10,
+  "rendered_pages": 10,
+  "prediction_images": 20,
+  "pdf_prediction_pairs": 8,
+  "charts": 2,
+  "markdown_asset_links_valid": true,
+  "reproduction_command_valid": true,
+  "page_checks": [
+    {
+      "page": 1,
+      "characters": 930,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 2,
+      "characters": 938,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 3,
+      "characters": 923,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 4,
+      "characters": 969,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 5,
+      "characters": 978,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 6,
+      "characters": 471,
+      "images": 1,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 7,
+      "characters": 572,
+      "images": 1,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 8,
+      "characters": 245,
+      "images": 8,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 9,
+      "characters": 245,
+      "images": 8,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 10,
+      "characters": 1249,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    }
+  ],
+  "metrics_source": "experiments/2026-11-02_yolo26m_cholec/metrics/results.csv",
+  "independent_test_evaluated": false
+}

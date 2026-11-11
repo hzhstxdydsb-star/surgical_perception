@@ -1,0 +1,61 @@
+{
+  "pdf_pages": 10,
+  "rendered_pages": 10,
+  "prediction_images": 20,
+  "pdf_prediction_pairs": 8,
+  "charts": 2,
+  "markdown_asset_links_valid": true,
+  "independent_test_evaluated": true,
+  "pages": [
+    {
+      "page": 1,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 2,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 3,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 4,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 5,
+      "images": 1,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 6,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 7,
+      "images": 1,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 8,
+      "images": 8,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 9,
+      "images": 8,
+      "text_and_image_bounds_valid": true
+    },
+    {
+      "page": 10,
+      "images": 0,
+      "text_and_image_bounds_valid": true
+    }
+  ]
+}

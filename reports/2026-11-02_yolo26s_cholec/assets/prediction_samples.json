@@ -1,0 +1,127 @@
+{
+  "seed": 42,
+  "sample_count": 20,
+  "pdf_displayed": 8,
+  "samples": [
+    {
+      "index": 1,
+      "filename": "01_VID23_t50_full_t50_VID23_000208.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_000208.png",
+      "split": "val"
+    },
+    {
+      "index": 2,
+      "filename": "02_VID11_t80_sparse_t80_VID11_000270.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID11_t80_sparse/t80_VID11_000270.png",
+      "split": "val"
+    },
+    {
+      "index": 3,
+      "filename": "03_VID23_t50_full_t50_VID23_001549.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_001549.png",
+      "split": "val"
+    },
+    {
+      "index": 4,
+      "filename": "04_VID23_t50_full_t50_VID23_001302.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_001302.png",
+      "split": "val"
+    },
+    {
+      "index": 5,
+      "filename": "05_VID23_t50_full_t50_VID23_001124.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_001124.png",
+      "split": "val"
+    },
+    {
+      "index": 6,
+      "filename": "06_VID23_t50_full_t50_VID23_000439.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_000439.png",
+      "split": "val"
+    },
+    {
+      "index": 7,
+      "filename": "07_VID23_t50_full_t50_VID23_000135.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_000135.png",
+      "split": "val"
+    },
+    {
+      "index": 8,
+      "filename": "08_VID23_t50_full_t50_VID23_000008.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_000008.png",
+      "split": "val"
+    },
+    {
+      "index": 9,
+      "filename": "09_VID37_seg8k_seg8k_video37_001006.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID37_seg8k/seg8k_video37_001006.png",
+      "split": "val"
+    },
+    {
+      "index": 10,
+      "filename": "10_VID11_t80_sparse_t80_VID11_001950.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID11_t80_sparse/t80_VID11_001950.png",
+      "split": "val"
+    },
+    {
+      "index": 11,
+      "filename": "11_VID11_t80_sparse_t80_VID11_001470.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID11_t80_sparse/t80_VID11_001470.png",
+      "split": "val"
+    },
+    {
+      "index": 12,
+      "filename": "12_VID23_t50_full_t50_VID23_000063.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_000063.png",
+      "split": "val"
+    },
+    {
+      "index": 13,
+      "filename": "13_VID23_t50_full_t50_VID23_001087.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_001087.png",
+      "split": "val"
+    },
+    {
+      "index": 14,
+      "filename": "14_VID23_t50_full_t50_VID23_001201.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_001201.png",
+      "split": "val"
+    },
+    {
+      "index": 15,
+      "filename": "15_VID71_t80_sparse_t80_VID71_000840.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID71_t80_sparse/t80_VID71_000840.png",
+      "split": "val"
+    },
+    {
+      "index": 16,
+      "filename": "16_VID11_t80_sparse_t80_VID11_000660.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID11_t80_sparse/t80_VID11_000660.png",
+      "split": "val"
+    },
+    {
+      "index": 17,
+      "filename": "17_VID23_t50_full_t50_VID23_000924.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_000924.png",
+      "split": "val"
+    },
+    {
+      "index": 18,
+      "filename": "18_VID37_seg8k_seg8k_video37_000986.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID37_seg8k/seg8k_video37_000986.png",
+      "split": "val"
+    },
+    {
+      "index": 19,
+      "filename": "19_VID23_t50_full_t50_VID23_001101.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID23_t50_full/t50_VID23_001101.png",
+      "split": "val"
+    },
+    {
+      "index": 20,
+      "filename": "20_VID44_t80_sparse_t80_VID44_002580.png",
+      "source": "datasets/cholecinstanceseg/prepared/images/val/VID44_t80_sparse/t80_VID44_002580.png",
+      "split": "val"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "files_excluding_inventory": [
+    {
+      "path": "EXPERIMENT_REPORT_YOLO26_S_M_L.md",
+      "bytes": 16534
+    },
+    {
+      "path": "EXPERIMENT_REPORT_YOLO26_S_M_L.pdf",
+      "bytes": 4860613
+    },
+    {
+      "path": "README.md",
+      "bytes": 645
+    },
+    {
+      "path": "assets/accuracy.png",
+      "bytes": 57095
+    },
+    {
+      "path": "assets/comparison_facts.json",
+      "bytes": 227352
+    },
+    {
+      "path": "assets/convergence.png",
+      "bytes": 282123
+    },
+    {
+      "path": "assets/predictions/l/01_VID23_t50_full_t50_VID23_000208.jpg",
+      "bytes": 95879
+    },
+    {
+      "path": "assets/predictions/l/02_VID11_t80_sparse_t80_VID11_000270.jpg",
+      "bytes": 110642
+    },
+    {
+      "path": "assets/predictions/l/03_VID23_t50_full_t50_VID23_001549.jpg",
+      "bytes": 91113
+    },
+    {
+      "path": "assets/predictions/l/04_VID23_t50_full_t50_VID23_001302.jpg",
+      "bytes": 91702
+    },
+    {
+      "path": "assets/predictions/l/predictions.jsonl",
+      "bytes": 35262
+    },
+    {
+      "path": "assets/predictions/m/01_VID23_t50_full_t50_VID23_000208.jpg",
+      "bytes": 96030
+    },
+    {
+      "path": "assets/predictions/m/02_VID11_t80_sparse_t80_VID11_000270.jpg",
+      "bytes": 110606
+    },
+    {
+      "path": "assets/predictions/m/03_VID23_t50_full_t50_VID23_001549.jpg",
+      "bytes": 91065
+    },
+    {
+      "path": "assets/predictions/m/04_VID23_t50_full_t50_VID23_001302.jpg",
+      "bytes": 91736
+    },
+    {
+      "path": "assets/predictions/m/predictions.jsonl",
+      "bytes": 35479
+    },
+    {
+      "path": "assets/predictions/s/01_VID23_t50_full_t50_VID23_000208.jpg",
+      "bytes": 95859
+    },
+    {
+      "path": "assets/predictions/s/02_VID11_t80_sparse_t80_VID11_000270.jpg",
+      "bytes": 111269
+    },
+    {
+      "path": "assets/predictions/s/03_VID23_t50_full_t50_VID23_001549.jpg",
+      "bytes": 90913
+    },
+    {
+      "path": "assets/predictions/s/04_VID23_t50_full_t50_VID23_001302.jpg",
+      "bytes": 92110
+    },
+    {
+      "path": "assets/predictions/s/predictions.jsonl",
+      "bytes": 35355
+    },
+    {
+      "path": "assets/samples/01_VID23_t50_full_t50_VID23_000208.png",
+      "bytes": 517732
+    },
+    {
+      "path": "assets/samples/02_VID11_t80_sparse_t80_VID11_000270.png",
+      "bytes": 583007
+    },
+    {
+      "path": "assets/samples/03_VID23_t50_full_t50_VID23_001549.png",
+      "bytes": 486704
+    },
+    {
+      "path": "assets/samples/04_VID23_t50_full_t50_VID23_001302.png",
+      "bytes": 493313
+    },
+    {
+      "path": "assets/speed_accuracy.png",
+      "bytes": 66313
+    },
+    {
+      "path": "assets/training_resources.png",
+      "bytes": 54554
+    },
+    {
+      "path": "source_metrics/l/args.yaml",
+      "bytes": 1745
+    },
+    {
+      "path": "source_metrics/l/benchmark.json",
+      "bytes": 1542
+    },
+    {
+      "path": "source_metrics/l/best_epoch_validation_metrics.json",
+      "bytes": 333
+    },
+    {
+      "path": "source_metrics/l/results.csv",
+      "bytes": 12528
+    },
+    {
+      "path": "source_metrics/l/test.json",
+      "bytes": 2299
+    },
+    {
+      "path": "source_metrics/m/args.yaml",
+      "bytes": 1764
+    },
+    {
+      "path": "source_metrics/m/benchmark.json",
+      "bytes": 1556
+    },
+    {
+      "path": "source_metrics/m/best_epoch_validation_metrics.json",
+      "bytes": 378
+    },
+    {
+      "path": "source_metrics/m/results.csv",
+      "bytes": 13856
+    },
+    {
+      "path": "source_metrics/m/test.json",
+      "bytes": 2303
+    },
+    {
+      "path": "source_metrics/s/args.yaml",
+      "bytes": 1745
+    },
+    {
+      "path": "source_metrics/s/benchmark.json",
+      "bytes": 1583
+    },
+    {
+      "path": "source_metrics/s/best_epoch_validation_metrics.json",
+      "bytes": 333
+    },
+    {
+      "path": "source_metrics/s/results.csv",
+      "bytes": 14720
+    },
+    {
+      "path": "source_metrics/s/test.json",
+      "bytes": 2302
+    },
+    {
+      "path": "verification.json",
+      "bytes": 1664
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+path: .
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: grasper
+  1: hook
+  2: irrigator
+  3: clipper
+  4: bipolar
+  5: scissors
+  6: snare
